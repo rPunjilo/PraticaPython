@@ -1,0 +1,4 @@
+Alface: 2.00
+Picanha: 78.00
+Cerveja: 5.50
+Leite: 4.67

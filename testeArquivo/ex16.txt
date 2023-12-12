@@ -1,0 +1,4 @@
+Nome: Joao Nota: 8
+Nome: Renato Nota: 4
+Nome: Luis Nota: 9
+Nome: Otavio Nota: 7

@@ -1,0 +1,5 @@
+Sumare  800000
+Campinas  3000000
+Sao Paulo  15000000
+Nova Odessa  400000
+Rio de Janeiro  10000000

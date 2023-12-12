@@ -1,0 +1,4 @@
+{'Tuna': [1634    It's a fish    '     '  16]}
+{'Onion': [2123    It's a vegetal    '     '   8]}
+{'Banana': [432    It's a fruit    '     '   2]}
+{'Apple': [5423   It's a fruit   '     '   23]}
